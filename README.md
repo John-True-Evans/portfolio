@@ -46,5 +46,5 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 
 ## Contact
 - GitHub: [John-True-Evans](https://github.com/John-True-Evans)
-#- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+# - LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
 - Email: johntrueevans@gmail.com
