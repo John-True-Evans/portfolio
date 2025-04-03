@@ -41,10 +41,6 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 - Created Kibana dashboards for threat visualization
 - Developed detection rules for common attack patterns
 
-## About Me
-#[Learn more about my background and interests](about.md)
-
 ## Contact
 - GitHub: [John-True-Evans](https://github.com/John-True-Evans)
-# - LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
 - Email: johntrueevans@gmail.com
