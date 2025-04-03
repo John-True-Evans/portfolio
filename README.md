@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 ## Tools I Work With
 
 ### Network Analysis
-![Wireshark]([images/wireshark.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png))  
+![Wireshark](images/wireshark.png)  
 **Wireshark** - Network protocol analyzer for troubleshooting and analysis
 
 ![NetworkMiner](images/networkminer.png)  
