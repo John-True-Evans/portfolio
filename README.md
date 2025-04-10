@@ -1,6 +1,6 @@
 # Cybersecurity Student Portfolio
 
-![Header Banner]([images/header.png](https://github.com/John-True-Evans/portfolio/blob/main/Wireshark_icon.svg.png?raw=true))
+![iamge alt]([images/header.png](https://github.com/John-True-Evans/portfolio/blob/main/Wireshark_icon.svg.png?raw=true))
 
 Welcome to my cybersecurity portfolio! I'm a student passionate about information security, ethical hacking, and digital forensics. Below you'll find examples of my work with various security tools.
 
