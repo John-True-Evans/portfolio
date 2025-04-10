@@ -12,7 +12,7 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
  
 **NetworkMiner** - Network forensic analysis tool for packet capturing
 
-![image alt](https://github.com/John-True-Evans/portfolio/blob/main/NetworkMiner_logo_313x313.png?raw=true)  
+![image alt](https://www.netresec.com/images/NetworkMiner_logo_313x313.png)  
 
 **Burp Suite** - Web application security testing platform
 
