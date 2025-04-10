@@ -14,9 +14,6 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 
 ![image alt](https://github.com/John-True-Evans/portfolio/blob/main/NetworkMiner_logo_313x313.png?raw=true)  
 
-
-### Web Application Security
-
 **Burp Suite** - Web application security testing platform
 
 ![image alt](https://blog.fabiopires.pt/images/collaborator/burp-logo.png)
