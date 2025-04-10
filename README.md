@@ -1,13 +1,13 @@
 # Cybersecurity Student Portfolio
 
-![iamge alt]([images/header.png](https://github.com/John-True-Evans/portfolio/blob/main/Wireshark_icon.svg.png?raw=true))
+
 
 Welcome to my cybersecurity portfolio! I'm a student passionate about information security, ethical hacking, and digital forensics. Below you'll find examples of my work with various security tools.
 
 ## Tools I Work With
 
 ### Network Analysis
-![Wireshark](images/wireshark.png)  
+![iamge alt](https://github.com/John-True-Evans/portfolio/blob/main/Wireshark_icon.svg.png?raw=true)  
 **Wireshark** - Network protocol analyzer for troubleshooting and analysis
 
 ![NetworkMiner](images/networkminer.png)  
