@@ -6,9 +6,10 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 
 ## Tools I Work With
 
-![image alt](https://github.com/user-attachments/assets/4ffb38b3-5677-4dfa-bbda-0a1ab1ca6504)
+**Wireshark** - Network protocol analyzer for troubleshooting and analysis 
 
-**Wireshark** - Network protocol analyzer for troubleshooting and analysis  
+![image alt](https://github.com/user-attachments/assets/4ffb38b3-5677-4dfa-bbda-0a1ab1ca6504)
+ 
 
 
 ![NetworkMiner](images/networkminer.png)  
