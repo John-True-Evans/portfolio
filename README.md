@@ -16,8 +16,11 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 
 
 ### Web Application Security
-![Burp Suite](images/burpsuite.png)  
+
 **Burp Suite** - Web application security testing platform
+
+![image alt](https://blog.fabiopires.pt/images/collaborator/burp-logo.png)
+
 
 ### Intrusion Detection
 ![Snort](images/snort.png)  
