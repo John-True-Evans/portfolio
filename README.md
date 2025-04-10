@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 ## Tools I Work With
 
 ### Network Analysis
-<img src="https://github.com/John-True-Evans/portfolio/blob/main/Wireshark_icon.svg.png?raw=true" width="100"
+<img src="Wireshark_icon.svg.png" width="100"
 ![iamge alt](https://github.com/John-True-Evans/portfolio/blob/main/Wireshark_icon.svg.png?raw=true)  
 **Wireshark** - Network protocol analyzer for troubleshooting and analysis
 
