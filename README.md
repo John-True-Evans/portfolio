@@ -10,10 +10,10 @@ Welcome to my cybersecurity portfolio! I'm a student passionate about informatio
 
 ![image alt](https://github.com/user-attachments/assets/4ffb38b3-5677-4dfa-bbda-0a1ab1ca6504)
  
-
-
-![NetworkMiner](images/networkminer.png)  
 **NetworkMiner** - Network forensic analysis tool for packet capturing
+
+![image alt](https://github.com/John-True-Evans/portfolio/blob/main/NetworkMiner_logo_313x313.png?raw=true)  
+
 
 ### Web Application Security
 ![Burp Suite](images/burpsuite.png)  
